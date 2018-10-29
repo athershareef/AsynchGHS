@@ -1,2 +1,2 @@
-# FloodMaxAsync
-Flood Max Algorithm for Asynchronous networks
+# AsynchGHS
+AsynchGHS Algorithm for Minimum spanning tree for Asynchronous networks
